@@ -1,2 +1,0 @@
-# SignatureHorusHCS
-Created with CodeSandbox
